@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Blog</title>
+        <style>
+        p {text-align:center}
+        .pegpurse{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;}   
+ 
+  h1{
+    font-size:61px;
+    text-align:center;
+    font-family:monospace;
+  }
+   h2{
+       font-size:1.7em;
+       font-family:cursive
+   }
+   body {
+            background-color: rgb(207, 103, 207);
+        }
+        table, th, td {
+  border: 1px solid black;
+}
+table, th, td {
+  border: 1px solid white;
+  border-collapse: collapse;
+}
+th, td {
+  background-color: #96D4D4;
+}
+h1{
+    font-size:61px;
+    text-align:center;
+}
+
+        </style>
+    </head>
+    <body>
+        
+        <h1>Insia's blog</h1>
+        <p style="font-size:48px">
+&#128512; &#128516; &#128525; &#128151;
+</p>
+
+        <h3>Contents</h3>
+        <ul>
+        <a href = "#1post">
+            <li>The Newest Purse!</li></a>
+        <a href ="#2post">
+            <li>Holiday Advent Calender!</li></a>
+        </ul>
+        
+        <h2 id= "1post"> 1st post: The Newest Purse!</h2>
+        <h6>December 1st, 2022</h6>
+        
+        <p>Morty Penguin Crossbody<br>
+            -Product Details-<br>
+Measurements:<br>
+2.9" W x 4.3" H x 0.9" D<br>
+
+Features:<br>
+Strap Drop: 22"<br>
+Foil Embossed Logo<br>
+Dust Bag Included: No<br>
+
+Materials:<br>
+pebbled leather<br>
+imported<br>
+
+Style Number:<br>
+K9523
+
+        </p>
+        
+         <a href ="https://surprise.katespade.com/products/morty-penguin-crossbody/K9523-960.html?KSNY=true&ogmap=PLA|RTN|GOOG|STND|c|SITEWIDE|Surprise|KS_OTL_Google_PLA_Signal_NA_Brand_National_PMax_NA_BAU|Sitewide_Regular_Core_NA||18417369777||US&gclid=CjwKCAiApvebBhAvEiwAe7mHSEkHKm12j52ARxhOlbx2Z-U_7XxJZ50a2C4FChTAAgsVPTCY6WY1ghoCImsQAvD_BwE"><img class= "pegpurse" src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/animals/penguins.png" width= "282"></a>
+
+<h2 id ="2post">2nd post: Holiday Advent Calender!</h2>
+        <h6>December 5th, 2022</h6>
+      <img class= "pegpurse" src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/seasonal/gingerbread-houses.png" width= "282">
+        <p>The holidays are certainly a magical time, and one of the best ways to get into the spirit of things is by counting down the days with a festive advent calendar. There's just nothing like a month full of mini gifts to get you excited for bigger items to come <p>
+        
+        <table>
+        <thead>
+            <tr>
+                <th>Different Types of Advent Calendars</th>
+                <th>Price</th>
+                <th>For who</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+             
+                <td>Chocolate</td>
+                <td>least expensive</td>
+                <td> For Kids</td>
+            </tr>
+            <tr>
+             
+                <td>Crazy Fuzzy Socks</td>
+                <td>least expensive</td>
+                <td> For The Family</td>
+            </tr>
+            <tr>
+             
+                <td>Toy Themed</td>
+                <td>a little expensive</td>
+                <td> For Kids</td>
+            </tr>
+            <tr>
+             
+                <td>Make-up/Self Care Products</td>
+                <td>Most expensive</td>
+                <td> For Kids</td>
+                <tr>
+             
+                <td>Alcohol</td>
+                <td>very expensive</td>
+                <td> For Adults</td>
+            </tr>
+            </tr>
+             </tbody>
+    </table>
+    </body>
+</html>
